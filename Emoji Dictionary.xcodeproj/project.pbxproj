@@ -57,8 +57,8 @@
 				4D5380751E651E4100EFDCDF /* AppDelegate.swift */,
 				4D5380771E651E4100EFDCDF /* ViewController.swift */,
 				4D5380791E651E4100EFDCDF /* Main.storyboard */,
-				4D53807C1E651E4100EFDCDF /* Assets.xcassets */,
 				4D53807E1E651E4100EFDCDF /* LaunchScreen.storyboard */,
+				4D53807C1E651E4100EFDCDF /* Assets.xcassets */,
 				4D5380811E651E4100EFDCDF /* Info.plist */,
 			);
 			path = "Emoji Dictionary";
@@ -302,6 +302,7 @@
 				4D5380861E651E4100EFDCDF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
